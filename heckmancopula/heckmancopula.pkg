@@ -1,4 +1,15 @@
-D 'mss': Heteroskedasticity test for quantile or OLS regressions Use mss With STATA 19
+D 'heckmancopula': Maximum likelihood estimation of the copula-based Heckman sample-selection model Use heckmancopula With STATA 19
 D
-F mss.ado
-F mss.sthlp
+F _conditional.mata
+F _conditional.mo
+F _tau.ado
+F heckmancopula.ado
+F heckmancopula.sthlp
+F heckmancopula_ml.ado
+F heckmancopula_p.ado
+F ml_reg_logistic.ado
+F ml_reg_t.ado
+F switchcopula.ado
+F switchcopula.sthlp
+F switchcopula_ml.ado
+F switchcopula_p.ado
